@@ -16,7 +16,7 @@ Verifica versão do git
 
 Inicia o git no projeto local
 ``` bash
- git int
+ git init
  ```
 
  Adiciona todos os arquivos
@@ -24,12 +24,12 @@ Inicia o git no projeto local
  git add .
  ```
 
-  
+  Enviar para o repositorio remotogi
 ``` bash
  git push -u origin main 
  ```
 
- Inicia o git no projeto local
+ Faz um commit com uma mensagem descritiva sobre as alterações reaizadas
 ``` bash
  git commit -m "descricao"
  ```
